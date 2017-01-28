@@ -24,3 +24,4 @@ In the third, we deconvolve the observed distribution using the measurement nois
 *Results:*
 We find that the open clusters form a simplex of maximal dimensionality, which indicates that their abundances live in a space that is no less than 6-dimensional, and that the red-giant stars span at least YYY dimensions.
 The latter conclusion is somewhat sensitive to what we assume about the abundance measurement precision.
+The fact that the APOGEE experiment does not (yet) have any measurements for r- and s-process elements only strengthens conclusions about the emprirical dimensionality.
